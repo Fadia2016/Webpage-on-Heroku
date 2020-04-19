@@ -1,0 +1,12 @@
+{
+  "name": "weather",
+  "description": "Our sample Node to Heroku app",
+  "main": "public/css/script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": ">=2.5.5",
+    "express": "~4.9.8"
+  }
+}

@@ -2,18 +2,20 @@ Deploying a webpage on Heroku.
 
 https://weather-fadi.herokuapp.com/
 
-about the webpage:
-	Using API in a webpage to get the weather for any city in the world.
-	The information was taken form OpenWeathermap.org using API.
+to deploy on Heroku visit: https://devcenter.heroku.com/articles/git
 
-	you can visit the web page to create your own API.
-	https://openweathermap.org/api
+About the webpage:
+Using API in a webpage to get the weather for any city in the world.
+The information was taken form OpenWeathermap.org using API.
 
-	To use the Webpage you need to enter the name of the city the click 		on the submit button using the mouse.
+you can visit the web page to create your own API.
+https://openweathermap.org/api
 
-	The output will be:
+To use the Webpage you need to enter the name of the city the click on the submit button using the mouse.
 
-	1- the name of the City
-	2- The Temperature in celsius.
-	3- The weather
-	4- The description of the weather
+The output will be:
+
+1- the name of the City
+2- The Temperature in celsius.
+3- The weather
+4- The description of the weather
